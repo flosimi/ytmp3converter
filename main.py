@@ -1,4 +1,4 @@
-#video.mov files cpnvert to mp3
+#video.mov files convert to mp3 audio
 import subprocess
 import os
 
